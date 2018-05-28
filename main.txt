@@ -1,4 +1,5 @@
 main du programme
 
 Ajout d'une fonctionnalité
-Ajout d'une autre fonctionnalité
+Modification d'une fonctionnalité
+
